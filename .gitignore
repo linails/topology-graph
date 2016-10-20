@@ -1,0 +1,6 @@
+
+*.out
+*.files
+tags
+
+build/
